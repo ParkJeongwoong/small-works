@@ -1,4 +1,4 @@
-# Rename Files
+# Renaming Files
 
 > 어떤 폴더의 파일 이름이 모두 'First name' + 'Last name' + '-' + '파일명' 순으로 되어 있다고 가정
 >
