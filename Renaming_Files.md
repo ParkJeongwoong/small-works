@@ -17,7 +17,7 @@
 ```python
 import os
 
-print('경로를 입력하세요. (.: 현재폴더, \\: 폴더 들어가기) ex [.\\\\test]')
+print('경로를 입력하세요. (.: 현재폴더, \\\\: 폴더 들어가기) ex [.\\\\test]')
 file_path = input('주소: ')
 # file_path = '.\\test' # 테스트용 path
 file_names = os.listdir(file_path)
